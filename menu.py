@@ -1,5 +1,12 @@
 import sys
 
+"""
+This program creates an order entry system for a food truck.
+It starts by creating a menu dictionary, the enters a loop while true
+to print the menu, accept the order entry, creates the order list, 
+and then prints the order total.
+"""
+
 # Menu dictionary
 menu = {
     "Snacks": {
